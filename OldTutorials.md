@@ -18,7 +18,7 @@
 * [#7 -- Block Improvements] (http://adfoc.us/24071755570005)
 * [#8 -- Custom Creative Tabs] (http://adfoc.us/2407175570013)
 * [#9 -- Crafting Recipes] (http://adfoc.us/2407175570022)
-* [#10 -- Ore Generation]
+* [#10 -- Ore Generation] (http://adfoc.us/2407175570035)
 * [#11 -- Tools and Armor] (http://adfoc.us/2407175570013)
 * [#12 -- Swords With Potion Effects] (http://adfoc.us/2407175570039)
 * [#13 -- Armor With Potion Effects] (http://adfoc.us/2407175570042)
