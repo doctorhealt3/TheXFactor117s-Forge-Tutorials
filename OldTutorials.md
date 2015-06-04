@@ -16,7 +16,7 @@
 * [#5 -- Block/Item Textures] (http://adfoc.us/24071755569996)
 * [#6 -- en_US.lang File] (http://adfoc.us/24071755570000)
 * [#7 -- Block Improvements] (http://adfoc.us/24071755570005)
-* [#8 -- Custom Creative Tabs] (http://adfoc.us/2407175570013)
+* [#8 -- Custom Creative Tabs] (http://adfoc.us/24071755570013)
 * [#9 -- Crafting Recipes] (http://adfoc.us/2407175570022)
 * [#10 -- Ore Generation] (http://adfoc.us/2407175570035)
 * [#11 -- Tools and Armor] (http://adfoc.us/2407175570013)
